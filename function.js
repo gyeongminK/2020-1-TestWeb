@@ -202,7 +202,7 @@ function result(){
     arr[12][1]+=75;
   }
   else if (q3_check()==75){
-    arrg[0][1]+=25;
+    arr[0][1]+=25;
   }
   else if (q3_check()==100){
     arr[9][1]+=100;
